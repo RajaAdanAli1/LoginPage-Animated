@@ -60,7 +60,17 @@ Contributions are welcome! Please follow these steps:
 4. Commit your changes (`git commit -m 'Add some feature'`).
 5. Push to the branch (`git push origin feature-branch`).
 6. Open a pull request.
+
+## Author
+Raja Adan Ali
+
+## WhatsApp
+For quick support or inquiries, you can reach me on WhatsApp:
+[![WhatsApp](https://i.pinimg.com/736x/18/46/74/1846740d0dfe3c5e4bc227bbb36d009d.jpg)](https://wa.me/+923107312040)
+
+## Portfolio
+Check out my portfolio for more projects and information:
+[![Portfolio](https://png.pngtree.com/png-clipart/20190630/original/pngtree-vector-portfolio-icon-png-image_4171234.jpg)](https://rajaadanali.info)
+
 ## License
 This project is licensed under the MIT License. You are free to use and modify it for your own purposes.
-## Author
-[Raja Adan Ali](https://rajaadanali.info) 

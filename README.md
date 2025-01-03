@@ -63,5 +63,4 @@ Contributions are welcome! Please follow these steps:
 ## License
 This project is licensed under the MIT License. You are free to use and modify it for your own purposes.
 ## Author
-[![Raja Adan Ali](https://rajaadanali.info/assets/imgs/hero-bg)](https://rajaadanali.info)  
 [Raja Adan Ali](https://rajaadanali.info) 

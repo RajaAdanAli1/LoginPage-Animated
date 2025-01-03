@@ -66,11 +66,11 @@ Raja Adan Ali
 
 ## WhatsApp
 For quick support or inquiries, you can reach me on WhatsApp:
-[![WhatsApp](https://i.pinimg.com/736x/18/46/74/1846740d0dfe3c5e4bc227bbb36d009d.jpg)](https://wa.me/+923107312040)
+[![WhatsApp](https://wa.me/+923107312040)
 
 ## Portfolio
 Check out my portfolio for more projects and information:
-[![Portfolio](https://png.pngtree.com/png-clipart/20190630/original/pngtree-vector-portfolio-icon-png-image_4171234.jpg)](https://rajaadanali.info)
+[![Portfolio](https://rajaadanali.info)
 
 ## License
 This project is licensed under the MIT License. You are free to use and modify it for your own purposes.
